@@ -1,4 +1,4 @@
-# dictionary-C-Bloom-filter
+# dictionary-C-Bloom-filter (In work)
 
 Program that upload .txt dictionary file and check another texts in .txt format for words that isn't in the dictionary.
 
